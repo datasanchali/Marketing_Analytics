@@ -39,12 +39,12 @@ The dataset contains user-level interaction data, including:
 
 ## 📈 Results Summary
 
-- **Ad Group Conversion Rate**: 2.555%  
-- **PSA Group Conversion Rate**: 1.785%  
-- **Uplift**: 0.769%  
+- **Ad Group Conversion Rate**: 2.6%  
+- **PSA Group Conversion Rate**: 1.8%  
+- **Uplift**: 0.77%  
 - **Z-statistic**: 7.37 → **Statistically significant**  
-- **Incremental Conversions**: 4342 users  
-- **Estimated Revenue Impact**: (assuming $50 per conversion): $217,149.11
+- **Incremental Conversions**: 4,342 users  
+- **Estimated Revenue Impact**: (assuming $50 per conversion): $217,149
 
 ---
 
