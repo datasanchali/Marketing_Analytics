@@ -4,7 +4,7 @@ This project evaluates the effectiveness of a marketing ad campaign using a cont
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 1. **Determine if the ad campaign was successful**
 2. **Measure the uplift in conversions due to ads**
@@ -13,7 +13,7 @@ This project evaluates the effectiveness of a marketing ad campaign using a cont
 
 ---
 
-## 🧪 Dataset Overview
+## Dataset Overview
 
 The dataset contains user-level interaction data, including:
 
@@ -26,7 +26,7 @@ The dataset contains user-level interaction data, including:
 
 ---
 
-## 🔍 Key Analyses
+## Key Analyses
 
 - **Exploratory Data Analysis (EDA)**: Distribution of ad exposure, conversion by day/hour
 - **Conversion Rate Comparison**: Between test and control groups
@@ -43,8 +43,8 @@ The dataset contains user-level interaction data, including:
 - **PSA Group Conversion Rate**: 1.785%  
 - **Uplift**: 0.769%  
 - **Z-statistic**: 7.37 → **Statistically significant**  
-- **Incremental Conversions**: ~110 users  
-- **Estimated Revenue Impact**: ~$5,500 (assuming $50 per conversion)
+- **Incremental Conversions**: 4342 users  
+- **Estimated Revenue Impact**: (assuming $50 per conversion): $217,149.11
 
 ---
 
