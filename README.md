@@ -1,4 +1,5 @@
-# Ad Campaign Effectiveness Report
+# Ad Campaign Effectiveness | ROI | Temporal Analysis
+
 
 Welcome! This project analyzes how effective a Marketing AD campaign was — helping us understand whether ADs are really driving conversions and when your audience is most engaged.
 
