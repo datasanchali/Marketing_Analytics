@@ -1,61 +1,48 @@
-# Ad Impact Analysis: A/B Testing for Conversion Uplift
+# 📊 Ad Campaign Effectiveness Report
 
-This project evaluates the effectiveness of a marketing ad campaign using a controlled A/B testing methodology. It compares conversion outcomes between users who were shown ads and those shown a public service announcement (PSA).
+Welcome! This project analyzes how effective a recent digital ad campaign was — helping you understand whether your ads are really driving conversions and when your audience is most engaged.
 
----
+## 🔍 What Was the Goal?
 
-## Project Objectives
+We wanted to answer:
+- Does showing ads actually lead to more sign-ups or purchases?
+- When are users most active and likely to convert?
+- Is our ad spend paying off?
 
-1. **Determine if the ad campaign was successful**
-2. **Measure the uplift in conversions due to ads**
-3. **Estimate incremental conversions and revenue attributable to the campaign**
-4. **Validate results with statistical testing and confidence intervals**
+To find out, we ran an **A/B test**:
+- **Group A (Control)** saw no ads.
+- **Group B (Test)** saw digital ads.
 
----
+We then compared how many users converted (e.g., signed up or bought something) in each group.
 
-## Dataset Overview
+## 📈 What Did We Find?
 
-The dataset contains user-level interaction data, including:
+### ✅ Ads Had an Impact
+- Users who saw ads **converted more often** than those who didn’t.
+- This suggests the campaign had a **positive effect** on user behavior.
 
-- `user id`: Unique user identifier  
-- `test group`: Indicates if the user saw an ad or PSA  
-- `converted`: Boolean flag if the user converted (True/False)  
-- `total ads`: Number of ads the user was shown  
-- `most ads day`: Day user saw the most ads  
-- `most ads hour`: Hour user saw the most ads  
+### 🕒 Timing Matters
+- Most ad views happened on **Mondays and Tuesdays**.
+- Peak engagement times were around **10 AM, 2 PM, 6 PM, 8 PM, and 10 PM**.
+- This tells us **when to run ads** for the biggest impact.
 
----
+### 💰 Smarter Budgeting
+- The results help identify the **best time slots** for ad placement.
+- You can **optimize budget** by focusing on high-engagement periods.
 
-## Key Analyses
+## 📊 What's in the Report?
 
-- **Exploratory Data Analysis (EDA)**: Distribution of ad exposure, conversion by day/hour
-- **Conversion Rate Comparison**: Between test and control groups
-- **Binning Analysis**: Conversion rate by total ads seen (linear and log-scale bins)
-- **Statistical Testing**: Z-test for proportions to validate uplift significance
-- **Attribution Modeling**: Estimation of incremental conversions and revenue
-- **Visualization**: Heatmaps, bar charts, confidence intervals
+- Easy-to-read charts showing ad performance by time and day.
+- Conversion comparisons between users who saw ads and those who didn’t.
+- Insights you can use in **media buying and campaign planning**.
 
----
+## 🎯 Key Takeaways
 
-## 📈 Results Summary
-
-- **Ad Group Conversion Rate**: 2.6%  
-- **PSA Group Conversion Rate**: 1.8%  
-- **Uplift**: 0.77%  
-- **Z-statistic**: 7.37 → **Statistically significant**  
-- **Incremental Conversions**: 4,342 users  
-- **Estimated Revenue Impact**: (assuming $50 per conversion): $217,149
+- The campaign **worked** — ads boosted user action.
+- Focus on **early weekdays** and **evening hours** for future campaigns.
+- This type of testing helps ensure **your budget is well spent**.
 
 ---
 
-## 📁 Files
-
-- `ads_revenue.ipynb`
----
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-
+Want to dig deeper or see visual summaries? Just open the notebook file:  
+📁 **`Campaign_Effectiveness.ipynb`**
