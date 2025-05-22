@@ -37,9 +37,9 @@ We then compared how many users converted in each group.
 
 ## 🎯 Key Takeaways
 
-- The campaign **worked** — ads boosted user action.
+- The campaign **worked** as ads boosted user action.
 - Focus on **early weekdays** and **evening hours** for future campaigns.
-- This type of testing helps ensure **your budget is well spent**.
+- This type of testing helps ensure **marketinig budget is well spent**.
 
 ---
 
