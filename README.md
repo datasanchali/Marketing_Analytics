@@ -1,8 +1,8 @@
-# 📊 Ad Campaign Effectiveness Report
+# Ad Campaign Effectiveness Report
 
 Welcome! This project analyzes how effective a recent digital ad campaign was — helping you understand whether your ads are really driving conversions and when your audience is most engaged.
 
-## 🔍 What Was the Goal?
+## Goal
 
 We wanted to answer:
 - Does showing ads actually lead to more sign-ups or purchases?
@@ -15,7 +15,7 @@ To find out, we ran an **A/B test**:
 
 We then compared how many users converted (e.g., signed up or bought something) in each group.
 
-## 📈 What Did We Find?
+## Findings?
 
 ### ✅ Ads Had an Impact
 - Users who saw ads **converted more often** than those who didn’t.
