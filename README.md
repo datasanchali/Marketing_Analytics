@@ -1,8 +1,8 @@
-#<img width="1920" height="1080" alt="ab-testing" src="https://github.com/user-attachments/assets/7e083696-67ec-49d0-821f-b1348b56cbb6" />
- Ad Campaign Effectiveness | ROI | Temporal Analysis
+# Ad Campaign Effectiveness | ROI | Temporal Analysis
 
+<img width="1920" height="1080" alt="ab-testing" src="https://github.com/user-attachments/assets/7e083696-67ec-49d0-821f-b1348b56cbb6" />
 
-Welcome! This project analyzes how effective a Marketing AD campaign was — helping us understand whether ADs are really driving conversions and when your audience is most engaged.
+Welcome! This project analyzes how effective a Marketing AD campaign was helping us understand whether ADs are really driving conversions and when your audience is most engaged.
 
 ## The Goal
 - Does showing adverts actually lead to more purchases/conversions?
